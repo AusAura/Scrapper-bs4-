@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "scrapper-bs4-"
+version = "0.1.0"
+description = ""
+authors = ["AusAura <91804331+AusAura@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+bs4 = "^0.0.1"
+requests = "^2.31.0"
+lxml = "^4.9.3"
+aiohttp = "^3.8.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
