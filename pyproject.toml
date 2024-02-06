@@ -11,6 +11,10 @@ bs4 = "^0.0.1"
 requests = "^2.31.0"
 lxml = "^4.9.3"
 aiohttp = "^3.8.6"
+sqlalchemy = "^2.0.25"
+psycopg2 = "^2.9.9"
+playwright = "^1.41.1"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
